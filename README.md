@@ -1,1 +1,3 @@
 # HavilMal
+
+My Neovim config.
